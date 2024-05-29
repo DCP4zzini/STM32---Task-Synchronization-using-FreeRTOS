@@ -1,0 +1,16 @@
+main.c:115:17:getNewDataSemaphore	4	static
+main.c:118:6:releaseNewDataSemaphore	8	static
+main.c:121:13:getMymutexHandle	4	static
+main.c:124:6:releaseMymutexHandle	8	static
+main.c:127:20:getmyQueueHandle	4	static
+main.c:138:5:main	8	static
+main.c:240:6:SystemClock_Config	160	static
+main.c:287:13:MX_ADC1_Init	48	static
+main.c:350:13:MX_USART2_UART_Init	8	static
+main.c:385:13:MX_GPIO_Init	48	static
+main.c:418:6:isMessageForTask2	24	static
+main.c:430:13:StartMytask1	16	static
+main.c:449:6:StartMytask2	128	static
+main.c:516:13:StartMytask3	16	static
+main.c:534:13:StartMytask4	16	static
+main.c:549:6:Error_Handler	4	static,ignoring_inline_asm
